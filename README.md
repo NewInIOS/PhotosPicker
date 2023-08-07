@@ -1,0 +1,2 @@
+# PhotosPicker
+在WWDC23，PhotosPicker新增了photospickerstyle，支持将照片选择器嵌入到应用程序中。当然也新增了一些可修改样式的方法。
